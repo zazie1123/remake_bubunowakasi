@@ -1,0 +1,46 @@
+.top{
+    background-color: #B5B4DB;
+    padding: 10px;
+    height: 250px;
+}
+.top_logo{
+    background-color: #B5B4DB;
+    height: 250px;
+    width: 600px;
+}
+.top_cushion{
+    background-color: #B5B4DB;
+    height: 250px;
+    width: 200px;
+}
+.top_icon{
+    background-color: #B5B4DB;
+    height: 250px;
+    width: 130px;
+}
+.float_left{
+    float: left;
+}
+.float_right{
+    float: right;
+}
+.main{
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main_introtext{
+    width: 1275px;
+    background-color: #FFFFFF;
+    color: #333333;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+.text{
+    text-align: center;
+}
+.title{
+    font-size: 25px;
+}
